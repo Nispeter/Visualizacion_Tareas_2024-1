@@ -4,3 +4,6 @@ dash_html_components==2.0.0
 pandas==2.2.2
 plotly==5.20.0
 Requests==2.31.0
+matplotlib
+openpyxl
+nbformat==4.2.0
