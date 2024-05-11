@@ -7,3 +7,6 @@ Requests==2.31.0
 matplotlib
 openpyxl
 nbformat==4.2.0
+pywaffle
+wordcloud
+nltk
