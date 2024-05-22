@@ -10,3 +10,6 @@ nbformat==4.2.0
 pywaffle
 wordcloud
 nltk
+nbconvert
+pdfkit
+pyppeteer
